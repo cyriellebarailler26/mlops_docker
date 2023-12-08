@@ -8,7 +8,6 @@ To clone the project, run the following command:
 
 ```bash
 git clone https://github.com/cyriellebarailler26/mlops_docker.git
-cd your-project
 ```
 
 ## Running the Application

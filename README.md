@@ -20,3 +20,6 @@ docker-compose up --build
 ```
 
 This command will build the Docker images and start the containers. The FastAPI server documentation will be accessible at http://localhost:8000/docs, and the Streamlit client will be accessible at http://localhost:8501.
+
+### Demonstration
+![GIF demo](./img/Animation_Docker.gif)

@@ -7,7 +7,7 @@ This project consists of a machine learning model to predict the species of peng
 To clone the project, run the following command:
 
 ```bash
-git clone [https://github.com/yourusername/your-project.git](https://github.com/cyriellebarailler26/mlops_docker.git)
+git clone https://github.com/cyriellebarailler26/mlops_docker.git
 cd your-project
 ```
 
